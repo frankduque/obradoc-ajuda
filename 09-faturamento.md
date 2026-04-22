@@ -1,4 +1,4 @@
-# 10. Faturamento
+# 9. Faturamento
 
 ← [Índice](./index.md)
 
@@ -97,7 +97,7 @@ Para reativar o acesso, o Proprietário pode acessar **Faturamento** e clicar em
 ### Artigos relacionados
 
 - [Como funcionam plano e cobrança](#como-funcionam-plano-e-cobrança)
-- [Como entrar em contato com o suporte](./12-suporte.md#como-entrar-em-contato-com-o-suporte)
+- [Como entrar em contato com o suporte](./11-suporte.md#como-entrar-em-contato-com-o-suporte)
 
 ---
 
@@ -117,4 +117,4 @@ Neste artigo, você aprende onde encontrar informações sobre a cobrança da su
 ### Artigos relacionados
 
 - [Como funcionam plano e cobrança](#como-funcionam-plano-e-cobrança)
-- [Como entrar em contato com o suporte](./12-suporte.md#como-entrar-em-contato-com-o-suporte)
+- [Como entrar em contato com o suporte](./11-suporte.md#como-entrar-em-contato-com-o-suporte)

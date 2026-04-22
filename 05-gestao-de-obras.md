@@ -1,4 +1,4 @@
-# 3. Gestão de obras
+# 5. Gestão de obras
 
 ← [Índice](./index.md)
 
@@ -33,7 +33,7 @@ Ao final, a obra será criada e aparecerá no painel de Obras para que você pos
 
 - [Como editar uma obra](#como-editar-uma-obra)
 - [Como definir a equipe de uma obra](#como-definir-a-equipe-de-uma-obra)
-- [Glossário da ObraDoc](./01-comecando.md#glossário-da-obradoc)
+- [Glossário da ObraDoc](./01-visao-geral.md#glossário-da-obradoc)
 
 ---
 
@@ -66,7 +66,7 @@ Ao final, as informações da obra serão atualizadas na plataforma.
 
 - [Como criar uma obra](#como-criar-uma-obra)
 - [Como definir a equipe de uma obra](#como-definir-a-equipe-de-uma-obra)
-- [Glossário da ObraDoc](./01-comecando.md#glossário-da-obradoc)
+- [Glossário da ObraDoc](./01-visao-geral.md#glossário-da-obradoc)
 
 ---
 
@@ -95,9 +95,9 @@ Ao final, a equipe da obra ficará definida, com os usuários distribuídos entr
 
 ### Artigos relacionados
 
-- [Como cadastrar usuários na ObraDoc](./01-comecando.md#como-cadastrar-usuários-na-obradoc)
+- [Como convidar um usuário para a ObraDoc](./04-usuarios.md#como-convidar-um-usuário-para-a-obradoc)
 - [Como criar uma obra](#como-criar-uma-obra)
-- [Glossário da ObraDoc](./01-comecando.md#glossário-da-obradoc)
+- [Glossário da ObraDoc](./01-visao-geral.md#glossário-da-obradoc)
 
 ---
 
@@ -122,6 +122,6 @@ O armazenamento da obra aumenta conforme arquivos e novas revisões são enviado
 
 ### Artigos relacionados
 
-- [Como enviar arquivos](./04-arquivos.md#como-enviar-arquivos)
-- [Como funciona o versionamento de arquivos](./04-arquivos.md#como-funciona-o-versionamento-de-arquivos)
+- [Como enviar arquivos](./06-arquivos.md#como-enviar-arquivos)
+- [Como funciona o versionamento de arquivos](./06-arquivos.md#como-funciona-o-versionamento-de-arquivos)
 - [Como editar uma obra](#como-editar-uma-obra)

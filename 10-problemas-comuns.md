@@ -1,4 +1,4 @@
-# 11. Problemas comuns
+# 10. Problemas comuns
 
 ← [Índice](./index.md)
 
@@ -42,7 +42,7 @@ A ObraDoc valida o nome do arquivo antes do upload. Verifique se o nome segue as
 - Revisão no formato `R00`, `R01`, `R02` ao final do nome
 - Comprimento máximo de cada campo respeitado
 
-Consulte o artigo [Como funcionam as regras de validação da nomenclatura](./05-nomenclatura.md#como-funcionam-as-regras-de-validação-da-nomenclatura) para ver os erros mais comuns.
+Consulte o artigo [Como funcionam as regras de validação da nomenclatura](./06-arquivos.md#como-funcionam-as-regras-de-validação-da-nomenclatura) para ver os erros mais comuns.
 
 **Disciplina restrita**
 Se a disciplina for administrativa, apenas Proprietários e Administradores podem enviar arquivos. Coordenadores e Projetistas não têm acesso.
@@ -55,9 +55,9 @@ Usuários com perfil **Equipe de Campo** não podem enviar arquivos. Verifique s
 
 ### Artigos relacionados
 
-- [Como enviar arquivos](./04-arquivos.md#como-enviar-arquivos)
-- [Como funcionam as regras de validação da nomenclatura](./05-nomenclatura.md#como-funcionam-as-regras-de-validação-da-nomenclatura)
-- [Quem pode enviar arquivos](./08-permissoes.md#quem-pode-enviar-arquivos)
+- [Como enviar arquivos](./06-arquivos.md#como-enviar-arquivos)
+- [Como funcionam as regras de validação da nomenclatura](./06-arquivos.md#como-funcionam-as-regras-de-validação-da-nomenclatura)
+- [Quem pode enviar arquivos](./04-usuarios.md#quem-pode-enviar-arquivos)
 
 ---
 
@@ -78,9 +78,9 @@ Verifique se há filtros de disciplina, fase ou status ativos na listagem de doc
 
 ### Artigos relacionados
 
-- [Como enviar arquivos](./04-arquivos.md#como-enviar-arquivos)
-- [Como visualizar um arquivo](./04-arquivos.md#como-visualizar-um-arquivo)
-- [Como funciona o fluxo de aprovação](./06-fluxos-de-aprovacao.md#como-funciona-o-fluxo-de-aprovação)
+- [Como enviar arquivos](./06-arquivos.md#como-enviar-arquivos)
+- [Como visualizar um arquivo](./06-arquivos.md#como-visualizar-um-arquivo)
+- [Como funciona o fluxo de aprovação](./07-fluxos-de-aprovacao.md#como-funciona-o-fluxo-de-aprovação)
 
 ---
 
@@ -101,9 +101,9 @@ Se o arquivo já estiver com status **Liberado**, ele não aparecerá na fila de
 
 ### Artigos relacionados
 
-- [Como aprovar arquivos](./06-fluxos-de-aprovacao.md#como-aprovar-arquivos)
-- [Quem pode aprovar arquivos](./06-fluxos-de-aprovacao.md#quem-pode-aprovar-arquivos)
-- [Quais perfis de usuário existem](./08-permissoes.md#quais-perfis-de-usuário-existem)
+- [Como aprovar arquivos](./07-fluxos-de-aprovacao.md#como-aprovar-arquivos)
+- [Quem pode aprovar arquivos](./07-fluxos-de-aprovacao.md#quem-pode-aprovar-arquivos)
+- [Quais perfis de usuário existem](./04-usuarios.md#quais-perfis-de-usuário-existem)
 
 ---
 
@@ -123,5 +123,5 @@ Se o problema persistir após essas tentativas, entre em contato com o suporte i
 
 ### Artigos relacionados
 
-- [Como entrar em contato com o suporte](./12-suporte.md#como-entrar-em-contato-com-o-suporte)
-- [Quais informações enviar para agilizar o atendimento](./12-suporte.md#quais-informações-enviar-para-agilizar-o-atendimento)
+- [Como entrar em contato com o suporte](./11-suporte.md#como-entrar-em-contato-com-o-suporte)
+- [Quais informações enviar para agilizar o atendimento](./11-suporte.md#quais-informações-enviar-para-agilizar-o-atendimento)

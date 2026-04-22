@@ -1,4 +1,4 @@
-# 7. Notificações
+# 8. Notificações
 
 ← [Índice](./index.md)
 
@@ -28,7 +28,7 @@ Verifique em **Configurações > Plano** quais funcionalidades estão ativas no 
 ### Artigos relacionados
 
 - [Quem recebe cada notificação](#quem-recebe-cada-notificação)
-- [Qual é o prazo de resposta do suporte](./12-suporte.md#qual-é-o-prazo-de-resposta-do-suporte)
+- [Qual é o prazo de resposta do suporte](./11-suporte.md#qual-é-o-prazo-de-resposta-do-suporte)
 
 ---
 
@@ -49,7 +49,7 @@ As notificações são disparadas automaticamente pelos seguintes eventos:
 ### Artigos relacionados
 
 - [Quais tipos de notificação existem](#quais-tipos-de-notificação-existem)
-- [Como funciona o fluxo de aprovação](./06-fluxos-de-aprovacao.md#como-funciona-o-fluxo-de-aprovação)
+- [Como funciona o fluxo de aprovação](./07-fluxos-de-aprovacao.md#como-funciona-o-fluxo-de-aprovação)
 
 ---
 
@@ -68,5 +68,5 @@ Neste artigo, você entende quem na sua equipe recebe cada tipo de notificação
 ### Artigos relacionados
 
 - [Quais tipos de notificação existem](#quais-tipos-de-notificação-existem)
-- [Quem pode aprovar arquivos](./06-fluxos-de-aprovacao.md#quem-pode-aprovar-arquivos)
-- [Quais perfis de usuário existem](./08-permissoes.md#quais-perfis-de-usuário-existem)
+- [Quem pode aprovar arquivos](./07-fluxos-de-aprovacao.md#quem-pode-aprovar-arquivos)
+- [Quais perfis de usuário existem](./04-usuarios.md#quais-perfis-de-usuário-existem)

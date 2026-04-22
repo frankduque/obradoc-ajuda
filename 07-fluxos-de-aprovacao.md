@@ -1,4 +1,4 @@
-# 6. Fluxos de aprovação
+# 7. Fluxos de aprovação
 
 ← [Índice](./index.md)
 
@@ -32,7 +32,7 @@ Quando um arquivo é enviado para uma fase que exige aprovação, ele entra com 
 
 - [Como aprovar arquivos](#como-aprovar-arquivos)
 - [O que significa cada status do fluxo](#o-que-significa-cada-status-do-fluxo)
-- [Como funciona o versionamento de arquivos](./04-arquivos.md#como-funciona-o-versionamento-de-arquivos)
+- [Como funciona o versionamento de arquivos](./06-arquivos.md#como-funciona-o-versionamento-de-arquivos)
 
 ---
 
@@ -84,7 +84,7 @@ O arquivo foi substituído por uma revisão mais recente. Isso acontece automati
 
 - [Como funciona o fluxo de aprovação](#como-funciona-o-fluxo-de-aprovação)
 - [Como aprovar arquivos](#como-aprovar-arquivos)
-- [Como funciona o versionamento de arquivos](./04-arquivos.md#como-funciona-o-versionamento-de-arquivos)
+- [Como funciona o versionamento de arquivos](./06-arquivos.md#como-funciona-o-versionamento-de-arquivos)
 
 ---
 
@@ -110,4 +110,4 @@ A aprovação de arquivos é restrita a **Administradores**, **Proprietários** 
 
 - [Como funciona o fluxo de aprovação](#como-funciona-o-fluxo-de-aprovação)
 - [Como aprovar arquivos](#como-aprovar-arquivos)
-- [Quais perfis de usuário existem](./08-permissoes.md#quais-perfis-de-usuário-existem)
+- [Quais perfis de usuário existem](./04-usuarios.md#quais-perfis-de-usuário-existem)

@@ -1,6 +1,45 @@
-# 8. Permissões
+# 4. Usuários e permissões
 
 ← [Índice](./index.md)
+
+---
+
+## Como convidar um usuário para a ObraDoc
+
+Neste artigo, você aprende como adicionar usuários à sua conta na ObraDoc.
+
+### Antes de começar
+
+Apenas **Proprietários** e **Administradores** podem convidar novos usuários. Os usuários precisam estar cadastrados na conta antes de serem adicionados à equipe de uma obra.
+
+### Passo a passo
+
+1. No menu principal, acesse **Usuários**.
+2. Clique em **Convidar usuário**.
+3. Informe o **e-mail** do usuário a ser convidado.
+4. Selecione o **perfil de empresa**: `Administrador` ou `Usuário`.
+5. Clique em **Enviar convite**.
+
+O usuário receberá um e-mail com o link de aceite. Após aceitar o convite e definir sua senha, ele estará disponível na plataforma para ser adicionado à equipe das obras.
+
+### Gerenciar usuários existentes
+
+Na lista de usuários, você pode:
+
+- **Desativar um usuário** — suspende o acesso do usuário à plataforma sem removê-lo.
+- **Reativar um usuário** — restaura o acesso de um usuário desativado.
+- **Alterar o perfil de empresa** — muda o perfil entre Administrador e Usuário.
+- **Cancelar convite pendente** — cancela um convite que ainda não foi aceito.
+
+### Resultado esperado
+
+Ao final, o usuário convidado ficará disponível na plataforma para seleção na definição da equipe das obras.
+
+### Artigos relacionados
+
+- [Como criar uma obra](./05-gestao-de-obras.md#como-criar-uma-obra)
+- [Como definir a equipe de uma obra](./05-gestao-de-obras.md#como-definir-a-equipe-de-uma-obra)
+- [Quais perfis de usuário existem](#quais-perfis-de-usuário-existem)
 
 ---
 
@@ -33,8 +72,8 @@ Esses perfis controlam o acesso dentro de uma obra específica.
 ### Artigos relacionados
 
 - [Como funcionam as permissões de acesso](#como-funcionam-as-permissões-de-acesso)
-- [Como adicionar membros à obra](./03-gestao-de-obras.md#como-definir-a-equipe-de-uma-obra)
-- [Glossário da ObraDoc](./01-comecando.md#glossário-da-obradoc)
+- [Como definir a equipe de uma obra](./05-gestao-de-obras.md#como-definir-a-equipe-de-uma-obra)
+- [Glossário da ObraDoc](./01-visao-geral.md#glossário-da-obradoc)
 
 ---
 
@@ -53,14 +92,40 @@ Um usuário precisa ter acesso nos dois níveis para trabalhar em uma obra. Um A
 
 ### Regra das disciplinas restritas
 
-Disciplinas marcadas como **restritas** (`is_administrative`) só aceitam upload de **Proprietários** e **Administradores** da empresa — coordenadores de projeto não têm essa permissão, a menos que a regra seja sobrescrita no nível do tenant.
+Disciplinas marcadas como **restritas** só aceitam upload de **Proprietários** e **Administradores** da empresa — coordenadores de projeto não têm essa permissão, a menos que a regra seja sobrescrita no nível do tenant.
 
 ### Artigos relacionados
 
 - [Quais perfis de usuário existem](#quais-perfis-de-usuário-existem)
 - [Quem pode visualizar arquivos](#quem-pode-visualizar-arquivos)
 - [Quem pode enviar arquivos](#quem-pode-enviar-arquivos)
-- [Como funcionam as disciplinas restritas](./01-comecando.md#como-funcionam-as-disciplinas-restritas)
+- [O que são disciplinas restritas](#o-que-são-disciplinas-restritas)
+
+---
+
+## O que são disciplinas restritas
+
+Neste artigo, você entende o que são disciplinas restritas na ObraDoc.
+
+### Visão geral
+
+Disciplinas restritas são disciplinas usadas para organizar documentos com acesso limitado dentro da plataforma. O envio de arquivos para essas disciplinas é permitido apenas para usuários com perfil de **Administrador** ou **Proprietário** da conta.
+
+### Como funcionam
+
+Essas disciplinas ajudam a separar documentos sensíveis ou de acesso controlado dos demais documentos da obra. Coordenadores e projetistas não conseguem enviar arquivos para disciplinas marcadas como restritas.
+
+### Pontos importantes
+
+- Disciplinas restritas são usadas para conteúdos com acesso limitado.
+- O upload para essas disciplinas é reservado a usuários com perfil Administrador ou Proprietário.
+- A definição de quais disciplinas são restritas pode ser configurada pelo administrador da conta.
+
+### Artigos relacionados
+
+- [Como gerenciar a biblioteca de disciplinas](./03-configuracoes.md#como-gerenciar-a-biblioteca-de-disciplinas)
+- [Quem pode enviar arquivos](#quem-pode-enviar-arquivos)
+- [Como funcionam as regras de validação da nomenclatura](./06-arquivos.md#como-funcionam-as-regras-de-validação-da-nomenclatura)
 
 ---
 
@@ -86,7 +151,7 @@ A visibilidade de arquivos depende do **status do documento** e do **perfil do u
 
 - [Quem pode enviar arquivos](#quem-pode-enviar-arquivos)
 - [Como funcionam as permissões de acesso](#como-funcionam-as-permissões-de-acesso)
-- [Como visualizar um arquivo](./04-arquivos.md#como-visualizar-um-arquivo)
+- [Como visualizar um arquivo](./06-arquivos.md#como-visualizar-um-arquivo)
 
 ---
 
@@ -114,5 +179,5 @@ Disciplinas configuradas como restritas só aceitam upload de Proprietários e A
 
 - [Quem pode visualizar arquivos](#quem-pode-visualizar-arquivos)
 - [Como funcionam as permissões de acesso](#como-funcionam-as-permissões-de-acesso)
-- [Como enviar arquivos](./04-arquivos.md#como-enviar-arquivos)
-- [Como funcionam as disciplinas restritas](./01-comecando.md#como-funcionam-as-disciplinas-restritas)
+- [Como enviar arquivos](./06-arquivos.md#como-enviar-arquivos)
+- [O que são disciplinas restritas](#o-que-são-disciplinas-restritas)

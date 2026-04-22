@@ -1,4 +1,4 @@
-# 12. Suporte
+# 11. Suporte
 
 ← [Índice](./index.md)
 
@@ -19,7 +19,7 @@ Neste artigo, você aprende como abrir um chamado de suporte com a equipe ObraDo
 
 ### Antes de abrir um chamado
 
-Consulte os artigos da seção [Problemas comuns](./11-problemas-comuns.md) para verificar se o seu problema já tem uma solução documentada. Isso agiliza o seu atendimento.
+Consulte os artigos da seção [Problemas comuns](./10-problemas-comuns.md) para verificar se o seu problema já tem uma solução documentada. Isso agiliza o seu atendimento.
 
 ### Artigos relacionados
 
